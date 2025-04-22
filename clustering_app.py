@@ -1,14 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 import streamlit as st
 import pandas as pd
 import pickle
 import numpy as np
 import warnings
+import sklearn
 warnings.filterwarnings('ignore')
 
 
