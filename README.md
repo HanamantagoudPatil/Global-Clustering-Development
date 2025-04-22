@@ -1,7 +1,8 @@
 ## Global-Clustering-Development
 A Streamlit-based web application for forecasting stock prices using historical market data. This project integrates both traditional and advanced time series forecasting models including LSTM and Facebook Prophet to provide users with insightful predictions and visualizations.
 
-    📑 Table of Contents
+## 📑 Table of Contents
+
 Project Overview
 
 Data Collection
