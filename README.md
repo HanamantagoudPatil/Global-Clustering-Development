@@ -1,27 +1,32 @@
 ## Global-Clustering-Development
-Objective
-To group countries into meaningful clusters based on multiple socio-economic indicators such as health, education, economy, and development, allowing for better policy analysis and strategic planning.
+A Streamlit-based web application for forecasting stock prices using historical market data. This project integrates both traditional and advanced time series forecasting models including LSTM and Facebook Prophet to provide users with insightful predictions and visualizations.
+📑 Table of Contents
+Project Overview
 
-Tools & Technologies Used
-Programming Language: Python
+Data Collection
 
-Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+Exploratory Data Analysis (EDA)
 
-Clustering Techniques: K-Means, Hierarchical Clustering (Agglomerative), DBSCAN
+Close Price vs Year
 
-Dimensionality Reduction: PCA (Principal Component Analysis)
+Candlestick Chart (Plotly)
 
-Visualization: Seaborn, Matplotlib, World Map Visualization
+Moving Averages (Plotly)
 
-Deployment: Streamlit
+Time Series Forecasting Models
 
- Business Need
-Organizations and policy makers require categorized insights to:
+ARIMA & SARIMAX (Not Used in Deployment)
 
-Allocate resources more effectively
+Deep Learning & Advanced Forecasting Models
 
-Identify underdeveloped or developing regions
+LSTM Model
 
-Track progress toward Sustainable Development Goals (SDGs)
+Facebook Prophet
 
-Compare development performance across nations
+Deployment
+
+Streamlit App Features
+
+Model Files Used
+
+
